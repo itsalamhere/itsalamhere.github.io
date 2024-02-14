@@ -7,7 +7,7 @@ Hello, I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩
 ### Predicting Heart Disease 🔮🫀
 ([nbviewer](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/predicting_heart_disease.ipynb))
 
-This project predicts a patient of getting a heart disease from several features by using k-Nearest Neighbors (k-NN) or [`KNeighborsClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html). The [dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) includes relevant information for each patient, such as their personal information and some medical data.
+This project predicts a patient of getting a heart disease from several features by using k-Nearest Neighbors (k-NN) or [`KNeighborsClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html). The [dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) includes relevant information for each patient, from their personal information up to relevant medical data.
 
 ### Classifying Heart Disease 📂🫀
 ([nbviewer](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_heart_disease.ipynb))
