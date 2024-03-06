@@ -5,10 +5,10 @@ Hello, I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩
 ## Deep Learning
 
 ### Detecting Pneumonia in X-Ray Images 🫁🩻
-([GitHub](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/detecting_pneumonia_in_xray_images.ipynb))
+([nbviewer](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/detecting_pneumonia_in_xray_images.ipynb))
 
 This project detect patients with pneumonia through [X-Ray Images](https://dsserver-prod-resources-1.s3.amazonaws.com/cnn/xray_dataset.tar.gz
-) by utilizing Deep Learning, specifically CNN and Transfer Learning. 
+) by utilizing Deep Learning, specifically CNN and Transfer Learning of ResNet50V2. 
 
 ## Machine Learning
 
