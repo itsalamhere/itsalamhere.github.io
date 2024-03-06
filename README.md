@@ -2,7 +2,20 @@
 
 Hello, I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects across the journey. This website consists of a compilation of notebooks on data analysis and machine learning algorithms. Will try applying it into upcoming personal projects, preferably healthcare-adjacent ones I'm interested in.
 
+## Deep Learning
+
+### Detecting Pneumonia in X-Ray Images 🫁🩻
+([GitHub](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/detecting_pneumonia_in_xray_images.ipynb))
+
+This project detect patients with pneumonia through [X-Ray Images](https://dsserver-prod-resources-1.s3.amazonaws.com/cnn/xray_dataset.tar.gz
+) by utilizing Deep Learning, specifically CNN and Transfer Learning. 
+
 ## Machine Learning
+
+### Predicting Hepatitis C 🧪🩺🌟
+([nbviewer](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_hepatitis_c.ipynb))
+
+This project predicts patients of Hepatitis C based on [dataset](https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset) of laboratory blood test using several models machine learning. 9 model experiments result in `GradientBoosting()` being the model with the highest performance, with `Accuracy` of `97.2973%` and `F1-Score` of `90.1961%`.
 
 ### Predicting Heart Disease 🔮🫀
 ([nbviewer](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/predicting_heart_disease.ipynb))
