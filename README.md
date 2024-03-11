@@ -3,7 +3,6 @@
 Hello, I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data analysis and machine learning. Let's dive in, shall we?
 
 ### Predicting Hepatitis C 🧪🩺🌟
-  
 🔗[`nbviewer`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_hepatitis_c.ipynb) 🏷️`machine-learning` `healthcare-data`
 
 This project predicts patients of Hepatitis C based on a [dataset](https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset) of laboratory blood test using nine models of machine learning: [`RandomForest()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html), Support Vector Machine [`SVC()`](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), up to [`GradientBoosting()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html) and [`VotingClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html#sklearn.ensemble.VotingClassifier) 
@@ -20,10 +19,10 @@ This project detect patients with pneumonia through a dataset of patients' [X-Ra
 ) by utilizing Deep Learning, specifically `CNN` and Transfer Learning of ResNet50V2. 
 
 ### Classifying Fake Disaster Tweets
-🔗[`nbviewer`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_disaster_related_tweets.ipynb) 🏷️`deep-learning` `natural-language-processing`
+🔗[`GitHub`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_disaster_related_tweets.ipynb) 🏷️`deep-learning` `natural-language-processing`
 
 ### Time-Series Trade Forecasting
-🔗[`nbviewer`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/time-series_trade_forecasting.ipynb) 🏷️`deep-learning` `sequence-models`
+🔗[`GitHub`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/time-series_trade_forecasting.ipynb) 🏷️`deep-learning` `sequence-models`
 
 ### Predicting Listing Gains of the Indian IPO Market
 🔗[`GitHub`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/predicting_listing_gains_in_indian_ipo_market.ipynb) 🏷️`deep-learning` `neural-network`
