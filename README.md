@@ -6,18 +6,18 @@ Hello, I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩
   
 🔗[`nbviewer`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_hepatitis_c.ipynb) 🏷️`machine-learning` `healthcare-data`
 
-This project predicts patients of Hepatitis C based on a [dataset](https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset) of laboratory blood test using nine models of machine learning: [`RandomForest()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html), Support Vector Machine ([`SVC()`](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)), up to [`GradientBoosting()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html) and [`VotingClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html#sklearn.ensemble.VotingClassifier) 
+This project predicts patients of Hepatitis C based on a [dataset](https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset) of laboratory blood test using nine models of machine learning: [`RandomForest()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html), Support Vector Machine [`SVC()`](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), up to [`GradientBoosting()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html) and [`VotingClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html#sklearn.ensemble.VotingClassifier) 
 
 ### Predicting MVPs in NBA Seasons 🏀🏆🌟
 🔗[`GitHub`](https://github.com/itsalamhere/predicting-mvp-in-nba-seasons/tree/main), `nbviewer`: [`1-web_scraping`](https://nbviewer.org/github/itsalamhere/predicting-mvp-in-nba-seasons/blob/main/1-web_scraping.ipynb) [`2-data_cleaning`](https://nbviewer.org/github/itsalamhere/predicting-mvp-in-nba-seasons/blob/main/2-data_cleaning.ipynb) [`3-mvp_predictions`](https://nbviewer.org/github/itsalamhere/predicting-mvp-in-nba-seasons/blob/main/3-mvp_predictions.ipynb) 🏷️`web-scraping` `machine-learning` `real-world-data`
 
-This project predicts MVP in NBA seasons in 2020 to 2023 through three steps: collecting the data via web scraping in the [website](www.basketball-reference.com), data cleaning for training model purposes, and MVP predictions using three models of machine learning: [`Ridge()`](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html) regression, [`RandomForest()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html), and [`GradientBoosting()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html). 
+This project predicts MVP in NBA seasons in 2020 to 2023 through three steps: collecting the data via web scraping in the [website](www.basketball-reference.com), data cleaning for training model purposes, and MVP predictions using three models of machine learning: [`Ridge()`](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html), [`RandomForest()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html), and [`GradientBoosting()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html). 
 
 ### Detecting Pneumonia in X-Ray Images 🫁🩻
-🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/detecting_pneumonia_in_xray_images.ipynb) 🏷️`deep-learning` `CNN` `ResNet` `medical-image-processing` 
+🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/detecting_pneumonia_in_xray_images.ipynb) 🏷️`deep-learning` `CNN` `transfer-learning` `biomedical-image-processing` 
 
 This project detect patients with pneumonia through a dataset of patients' [X-Ray images](https://dsserver-prod-resources-1.s3.amazonaws.com/cnn/xray_dataset.tar.gz
-) by utilizing Deep Learning, specifically CNN and Transfer Learning of ResNet50V2. 
+) by utilizing Deep Learning, specifically `CNN` and Transfer Learning of ResNet50V2. 
 
 ### Predicting Heart Disease 🔮🫀
 🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/predicting_heart_disease.ipynb) 🏷️`machine-learning` `k-nearest-neighbors`
