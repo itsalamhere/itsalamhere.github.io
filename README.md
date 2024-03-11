@@ -1,8 +1,9 @@
 # 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
 
-Hello, I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects across the journey. This website consists of a compilation of notebooks on data analysis and machine learning algorithms. Will try applying it into upcoming personal projects, preferably healthcare-adjacent ones I'm interested in.
+Hello, I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data analysis and machine learning. Let's dive in, shall we?
 
 ### Predicting Hepatitis C 🧪🩺🌟
+  
 🔗[`nbviewer`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_hepatitis_c.ipynb) 🏷️`machine-learning` `healthcare-data`
 
 This project predicts patients of Hepatitis C based on a [dataset](https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset) of laboratory blood test using nine models of machine learning: [`RandomForest()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html), Support Vector Machine ([`SVC()`](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)), up to [`GradientBoosting()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html) and [`VotingClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html#sklearn.ensemble.VotingClassifier) 
