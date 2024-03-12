@@ -1,6 +1,6 @@
 # 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
 
-Hello, I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data analysis and machine learning. Let's dive in, shall we?
+Hello, I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data science.
 
 ### Predicting Hepatitis C 🧪🩺🌟
 🔗[`nbviewer`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_hepatitis_c.ipynb) 🏷️`machine-learning` `healthcare-data`
