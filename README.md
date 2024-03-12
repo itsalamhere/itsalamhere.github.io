@@ -13,19 +13,23 @@ This project predicts patients of Hepatitis C based on a [dataset](https://www.k
 This project predicts MVP in NBA seasons in 2020 to 2023 through three steps: collecting the data via web scraping in the [website](www.basketball-reference.com), data cleaning for training model purposes, and MVP predictions using three models of machine learning: [`Ridge()`](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html), [`RandomForest()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html), and [`GradientBoosting()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html). 
 
 ### Detecting Pneumonia in X-Ray Images 🫁🩻
-🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/detecting_pneumonia_in_xray_images.ipynb) 🏷️`deep-learning` `CNN` `transfer-learning` `biomedical-image-processing` 
+🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/detecting_pneumonia_in_xray_images.ipynb) 🏷️`deep-learning` `transfer-learning` `biomedical-image-processing` 
 
 This project detect patients with pneumonia through a dataset of patients' [X-Ray images](https://dsserver-prod-resources-1.s3.amazonaws.com/cnn/xray_dataset.tar.gz
-) by utilizing Deep Learning, specifically `CNN` and Transfer Learning of ResNet50V2. 
+) by utilizing Deep Learning, specifically convolutional neural network `CNN` and Transfer Learning of `ResNet50V2`. 
 
-### Classifying Fake Disaster Tweets
+### Classifying Real and Fake Disaster Tweets
 🔗[`GitHub`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_disaster_related_tweets.ipynb) 🏷️`deep-learning` `natural-language-processing`
 
+This project classifies real and fake disaster tweets through natural language processing. Besides word visualization on both kinds, the models used include shallow and deep neural networks, and also transformer model of [`distilcase-bert-uncased`](https://huggingface.co/distilbert/distilbert-base-uncased). 
+
 ### Time-Series Trade Forecasting
-🔗[`GitHub`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/time-series_trade_forecasting.ipynb) 🏷️`deep-learning` `sequence-models`
+🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/time-series_trade_forecasting.ipynb) 🏷️`deep-learning` `sequence-models`
+
+This project forecasts future trades of stocks in [Yahoo! Stock Price](https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price) using deep learning models: Recurrent Neural Network `RNN()`, Long-Short Term Memory `LSTM()`, convolutional layer `Conv1D()`, and also hyerparameter tuning to optimize the model's accuracy in forecasting. 
 
 ### Predicting Listing Gains of the Indian IPO Market
-🔗[`GitHub`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/predicting_listing_gains_in_indian_ipo_market.ipynb) 🏷️`deep-learning` `neural-network`
+🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/predicting_listing_gains_in_indian_ipo_market.ipynb) 🏷️`deep-learning` `neural-network`
 
 This project predicts companies that has listing gains across the Indian IPO market from a dataset of [moneycontrol](https://www.moneycontrol.com/ipo/listed-ipos/?classic=true) consisting of company names with its issues size and price and subscriptions from several entities. It begins from data exploration and visualization, treatment of outliers, and defining the classification model with deep neural network.
 
