@@ -1,6 +1,6 @@
 # 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
 
-Hello, I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data science.
+Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data science. Hope you enjoy!
 
 ### Predicting Hepatitis C 🧪🩺🌟
 🔗[`nbviewer`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_hepatitis_c.ipynb) 🏷️`machine-learning` `healthcare-data`
@@ -18,17 +18,17 @@ This project predicts MVP in NBA seasons in 2020 to 2023 through three steps: co
 This project detect patients with pneumonia through a dataset of patients' [X-Ray images](https://dsserver-prod-resources-1.s3.amazonaws.com/cnn/xray_dataset.tar.gz
 ) by utilizing Deep Learning, specifically convolutional neural network `CNN` and Transfer Learning of `ResNet50V2`. 
 
-### Classifying Real and Fake Disaster Tweets
+### Classifying Real and Fake Disaster Tweets 🔎📲
 🔗[`GitHub`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_disaster_related_tweets.ipynb) 🏷️`deep-learning` `natural-language-processing`
 
 This project classifies real and fake disaster tweets through natural language processing. Besides word visualization on both kinds, the models used include shallow and deep neural networks, and also transformer model of [`distilcase-bert-uncased`](https://huggingface.co/distilbert/distilbert-base-uncased). 
 
-### Time-Series Trade Forecasting
+### Time-Series Trade Forecasting ⌚📈
 🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/time-series_trade_forecasting.ipynb) 🏷️`deep-learning` `sequence-models`
 
 This project forecasts future trades of stocks in [Yahoo! Stock Price](https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price) using deep learning models: Recurrent Neural Network `RNN()`, Long-Short Term Memory `LSTM()`, convolutional layer `Conv1D()`, and also hyerparameter tuning to optimize the model's accuracy in forecasting. 
 
-### Predicting Listing Gains of the Indian IPO Market
+### Predicting Listing Gains of the Indian IPO Market 💰🪽
 🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/predicting_listing_gains_in_indian_ipo_market.ipynb) 🏷️`deep-learning` `neural-network`
 
 This project predicts companies that has listing gains across the Indian IPO market from a dataset of [moneycontrol](https://www.moneycontrol.com/ipo/listed-ipos/?classic=true) consisting of company names with its issues size and price and subscriptions from several entities. It begins from data exploration and visualization, treatment of outliers, and defining the classification model with deep neural network.
