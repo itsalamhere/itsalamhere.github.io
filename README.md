@@ -2,6 +2,11 @@
 
 Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data science. Hope you enjoy!
 
+### Analyzing COVID RNA Sequences
+🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/analyzing-covid-rna-sequences.ipynb) 🏷️`biopython` `bioinformatics`
+
+This project looks at COVID RNA sequences consists of reference first sample in Wuhan, China, Asia and also the first sample in North America, and two of emerging mutant variants on the period of time: Delta and Omicron. The project shows how to download and parse the target sequences, align them to find similarities towards the reference, and then applying alignments to find mismatches in the base sequences.
+
 ### Predicting Hepatitis C 🧪🩺🌟
 🔗[`nbviewer`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_hepatitis_c.ipynb) 🏷️`machine-learning` `healthcare-data`
 
