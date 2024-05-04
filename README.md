@@ -3,7 +3,7 @@
 Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data science. Hope you enjoy!
 
 ### COVID-19 Spread in the United States 🗺️
-🔗[Tableau Public](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/COVID-19SpreadMapintheUnitedStates/Dashboard1) 🏷️`data-analyst` `data-visualization` `dashboard`
+🔗[`Tableau Public`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/COVID-19SpreadMapintheUnitedStates/Dashboard1) 🏷️`data-analyst` `data-visualization` `dashboard`
 
 This project visualizes the spread of COVID-19 in the US daily in 2020-2023 from a dataset shared by [Opportunity Insights Economic Tracker](https://github.com/OpportunityInsights/EconomicTracker), with data sourced from New York Times (NYT), Centers for Disease Control and Prevention (CDC), and John Hopkins University (JHU). The dashboard consists of:
 
