@@ -2,6 +2,12 @@
 
 Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data science. Hope you enjoy!
 
+### Drug Reviews: Dashboard and Sentiment Prediction 💊📊⚙️
+🔗 [`Github`](https://github.com/itsalamhere/drug-reviews) | `nbviewer`: 
+[`01-EDA-and-data-cleaning`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/01-EDA-and-data-cleaning.ipynb) [`02-import-csv-to-postgresql`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/02-import-csv-to-postgresql.ipynb) [`03-dashboard-of-drug-reviews`]() [`04-sentiment-prediction`]() 🏷️`big-data` `PostgreSQL` `Tableau` `natural-language-processing`
+
+This project processes a 16-year [dataset](https://data.mendeley.com/datasets/64cc5w5dxy/1) of drug reviews by 390,000+ consumers into 4 sections: data cleaning and exploration, database management in PostgreSQL, data visualization in Tableau, and sentiment prediction through deep learning and transformers. 
+
 ### COVID-19 Spread in the United States 🗺️
 🔗[`Tableau Public`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/COVID-19SpreadMapintheUnitedStates/Dashboard1) 🏷️`data-analyst` `data-visualization` `dashboard`
 
@@ -22,7 +28,7 @@ This project looks at COVID RNA sequences consists of reference first sample in 
 This project predicts patients of Hepatitis C based on a [dataset](https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset) of laboratory blood test using nine models of machine learning: [`RandomForest()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html), Support Vector Machine [`SVC()`](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), up to [`GradientBoosting()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html) and [`VotingClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html#sklearn.ensemble.VotingClassifier) 
 
 ### Predicting MVPs in NBA Seasons 🏀🏆🌟
-🔗[`GitHub`](https://github.com/itsalamhere/predicting-mvp-in-nba-seasons/tree/main), `nbviewer`: [`1-web_scraping`](https://nbviewer.org/github/itsalamhere/predicting-mvp-in-nba-seasons/blob/main/1-web_scraping.ipynb) [`2-data_cleaning`](https://nbviewer.org/github/itsalamhere/predicting-mvp-in-nba-seasons/blob/main/2-data_cleaning.ipynb) [`3-mvp_predictions`](https://nbviewer.org/github/itsalamhere/predicting-mvp-in-nba-seasons/blob/main/3-mvp_predictions.ipynb) 🏷️`web-scraping` `machine-learning` `real-world-data`
+🔗[`GitHub`](https://github.com/itsalamhere/predicting-mvp-in-nba-seasons/tree/main) | `nbviewer`: [`1-web_scraping`](https://nbviewer.org/github/itsalamhere/predicting-mvp-in-nba-seasons/blob/main/1-web_scraping.ipynb) [`2-data_cleaning`](https://nbviewer.org/github/itsalamhere/predicting-mvp-in-nba-seasons/blob/main/2-data_cleaning.ipynb) [`3-mvp_predictions`](https://nbviewer.org/github/itsalamhere/predicting-mvp-in-nba-seasons/blob/main/3-mvp_predictions.ipynb) 🏷️`web-scraping` `machine-learning` `real-world-data`
 
 This project predicts MVP in NBA seasons in 2020 to 2023 through three steps: collecting the data via web scraping in the [website](www.basketball-reference.com), data cleaning for training model purposes, and MVP predictions using three models of machine learning: [`Ridge()`](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html), [`RandomForest()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html), and [`GradientBoosting()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html). 
 
