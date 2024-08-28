@@ -2,6 +2,11 @@
 
 Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data science. Hope you enjoy!
 
+### A/B Testing: Commitment Check for Online Students in Udacity ✏️
+🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/ab-testing-commitment-check-udacity.ipynb) 🏷️`a/b-testing` `data-analysis` `python`
+
+Udacity conducts an experiment of commitment check by adding hours to devote per week before enrolling. This is to filter frustrated students who can't make it due to time while retaining current profits. This project creates the experiment design, measures the changes through relevant metrics, and offers recommendation whether or not to launch the experiment. 
+
 ### Drug Reviews on [drugs.com](drugs.com): Dashboard and Sentiment Prediction 💊📊⚙️
 🔗 [`Github`](https://github.com/itsalamhere/drug-reviews) | `nbviewer`: 
 [`01-EDA-and-data-cleaning`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/01-EDA-and-data-cleaning.ipynb) [`02-import-csv-to-postgresql`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/02-import-csv-to-postgresql.ipynb) [`03-dashboard-of-drug-reviews`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/03-dashboard-of-drug-reviews.ipynb) [`04-sentiment-prediction`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/04-sentiment-prediction.ipynb) 🏷️`big-data` `PostgreSQL` `Tableau` `natural-language-processing`
