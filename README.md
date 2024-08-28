@@ -2,7 +2,7 @@
 
 Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data science. Hope you enjoy!
 
-### A/B Testing: Commitment Check for Online Students in Udacity ✏️
+### A/B Testing: Commitment Check for Online Students in Udacity ✏️📈🔎
 🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/ab-testing-commitment-check-udacity.ipynb) 🏷️`a/b-testing` `data-analysis` `python`
 
 Udacity conducts an experiment of commitment check by adding hours to devote per week before enrolling. This is to filter frustrated students who can't make it due to time while retaining current profits. This project creates the experiment design, measures the changes through relevant metrics, and offers recommendation whether or not to launch the experiment. 
