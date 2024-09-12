@@ -2,6 +2,11 @@
 
 Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data science. Hope you enjoy!
 
+### Product Segmentation and Customer Classification in an Online Retail Company
+🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/product-segmentation-and-customer-classification.ipynb) 🏷️`clustering` `k-means` `wordcloud` `pca` `machine-learning` `marketing-data-science`
+
+This project cleans 1M+ data of 2-year-transactions in a UK online retail company into 760K+ invoices with respective cancellations cleaned into a column, clusters the data into 6 categories of products and 11 categories of customers, and classify the test customers with a combination of 3 best models inside a `VotingClassifier` with an accuracy of `91.5696%`.
+
 ### A/B Testing: Commitment Check for Online Students in Udacity ✏️📈🔎
 🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/ab-testing-commitment-check-udacity.ipynb) 🏷️`a/b-testing` `data-analysis` `python`
 
