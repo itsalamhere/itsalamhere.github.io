@@ -2,13 +2,18 @@
 
 Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data science. Hope you enjoy!
 
+### Research Payments of Non-Covered Recipient Entity (NCRE) in the United States 2023
+🔗[`Github`](https://github.com/itsalamhere/research-payments-ncre-2023/blob/main/README.md) | `nbviewer`: [`01-data-cleaning`](https://nbviewer.org/github/itsalamhere/research-payments-ncre-2023/blob/main/01-data-cleaning.ipynb) [`02-data-analysis-bigquery`](https://nbviewer.org/github/itsalamhere/research-payments-ncre-2023/blob/main/02-data-analysis-bigquery.ipynb) | `Tableau`: [`03-research-payments-NCRE-2023`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/research-payments-NCRE-2023/ResearchPayments2023-NCREs) 🏷️`healthcare` `RnD` `CMS` `real-world-data` `BigQuery` `Python` `Tableau`
+
+This project visualizes research payments of NCREs in form of a dashboard of Tableau connected with database of BigQuery. The dataset are taken from [CMS Open Payments](https://openpaymentsdata.cms.gov/), then cleaned from `ParsingError` in Python, and analyzed through SQLs of BigQuery. The dashboard showcases NCRE records by state, and also research payments by therapeutic area, product, and NCREs. It also comes along with parameters of Smart Search, Product Category, and Top N [5-20].
+
 ### Product Segmentation and Customer Classification in an Online Retail Company
 🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/product-segmentation-and-customer-classification.ipynb) 🏷️`clustering` `k-means` `wordcloud` `pca` `machine-learning` `marketing-data-science`
 
 This project cleans 1M+ data of 2-year-transactions in a [UK online retail company](https://archive.ics.uci.edu/dataset/502/online+retail+ii) into 760K+ invoices with respective cancellations cleaned into a column, clusters the data into 6 categories of products and 11 categories of customers, and classify the test customers with a combination of 3 best models inside a `VotingClassifier` with an accuracy of `91.5696%`.
 
 ### A/B Testing: Commitment Check for Online Students in Udacity ✏️📈🔎
-🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/ab-testing-commitment-check-udacity.ipynb) 🏷️`a/b-testing` `data-analysis` `python`
+🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/ab-testing-commitment-check-udacity.ipynb) 🏷️`a/b-testing` `data-analysis` `Python`
 
 Udacity conducts an experiment of commitment check by adding hours to devote per week before enrolling. This is to filter frustrated students who can't make it due to time while retaining current profits. This project creates the experiment design, measures the changes through relevant metrics, and offers recommendation whether or not to launch the experiment. 
 
