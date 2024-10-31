@@ -18,8 +18,8 @@ This project cleans 1M+ data of 2-year-transactions in a [UK online retail compa
 Udacity conducts an experiment of commitment check by adding hours to devote per week before enrolling. This is to filter frustrated students who can't make it due to time while retaining current profits. This project creates the experiment design, measures the changes through relevant metrics, and offers recommendation whether or not to launch the experiment. 
 
 ### Drug Reviews on [drugs.com](drugs.com): Dashboard and Sentiment Prediction 💊📊⚙️
-🔗 [`Github`](https://github.com/itsalamhere/drug-reviews) | `nbviewer`: 
-[`01-EDA-and-data-cleaning`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/01-EDA-and-data-cleaning.ipynb) [`02-import-csv-to-postgresql`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/02-import-csv-to-postgresql.ipynb) [`03-dashboard-of-drug-reviews`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/03-dashboard-of-drug-reviews.ipynb) [`04-sentiment-prediction`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/04-sentiment-prediction.ipynb) 🏷️`big-data` `PostgreSQL` `Tableau` `natural-language-processing`
+🔗 [`Github`](https://github.com/itsalamhere/drug-reviews) | [`Tableau (updated with BigQuery)`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/DrugReviews-bigquery/drug-reviews-bigquery) `nbviewer`: 
+[`01-EDA-and-data-cleaning`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/01-EDA-and-data-cleaning.ipynb) [`02-import-csv-to-postgresql`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/02-import-csv-to-postgresql.ipynb) [`03-dashboard-of-drug-reviews`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/03-dashboard-of-drug-reviews.ipynb) [`04-sentiment-prediction`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/04-sentiment-prediction.ipynb) 🏷️`big-data` `data-cleaning` `Python` `PostgreSQL` `BigQuery` `Tableau` `natural-language-processing`
 
 This project processes a 16-year [dataset](https://data.mendeley.com/datasets/64cc5w5dxy/1) of drug reviews by 390,000+ consumers into 4 sections: data cleaning and exploration, database management in PostgreSQL, data visualization in Tableau, and sentiment prediction through deep learning and transformers. 
 
@@ -43,7 +43,7 @@ This project visualizes the spread of COVID-19 in the US daily in 2020-2023 from
 This project looks at COVID RNA sequences consists of reference first sample in Wuhan, China, Asia and also the first sample in North America, and two of emerging mutant variants on the period of time: Delta and Omicron. The project shows how to download and parse the target sequences, align them to find similarities towards the reference, and then applying alignments to find mismatches in the base sequences.
 
 ### Predicting Hepatitis C 🧪🩺🌟
-🔗[`nbviewer`](https://github.com/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_hepatitis_c.ipynb) 🏷️`machine-learning` `healthcare-data`
+🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/classifying_hepatitis_c.ipynb) 🏷️`machine-learning` `healthcare-data`
 
 This project predicts patients of Hepatitis C based on a [dataset](https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset) of laboratory blood test using nine models of machine learning: [`RandomForest()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html), Support Vector Machine [`SVC()`](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), up to [`GradientBoosting()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html) and [`VotingClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html#sklearn.ensemble.VotingClassifier) 
 
