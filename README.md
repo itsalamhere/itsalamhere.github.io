@@ -3,7 +3,7 @@
 Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data science. Hope you enjoy!
 
 ### YouTube Metrics Web App Dashboard
-🔗[`Github`](https://github.com/itsalamhere/YT-dashboard-streamlit) [`Streamlit`](https://yt-dashboard-app-k5smefz5gaj39bweayxre2.streamlit.app/) 🏷️`web-development` `marketing` `business` `YouTube` `Python` `Streamlit`  
+🔗[`Github`](https://github.com/itsalamhere/YT-dashboard-streamlit) [`Streamlit`](https://yt-dashboard-app-k5smefz5gaj39bweayxre2.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `marketing` `business` `YouTube` `Python` `Streamlit`  
 
 This project transforms datasets of aggregated metrics by 200+ videos and country and subscriber status, along with comments and performance over time, into a web app dashboard with Python and Streamlit with two features: **Aggregate Metrics** for the whole channel, and **Individual Video Analysis** for deeper insights per video.
 
