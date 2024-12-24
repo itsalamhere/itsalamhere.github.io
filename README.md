@@ -2,6 +2,11 @@
 
 Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data science. Hope you enjoy!
 
+### Alam's Productivity Tracker
+🔗[`Looker`](https://lookerstudio.google.com/reporting/a13a8300-6ec0-4c8e-a750-ca3b258f59fd/page/bJDYE) 🏷️`dashboarding` `personal-project` `looker`
+
+This project utilizes a personal archive of Pomodoro sessions, task and language chunks, read books, and milestones for 450+ days from the website [app.studystream.live]. The goal is to visualize how much Alam has gained across his journey, at times he doesn't feel good about it. Glad it turned out neat, and I can add the data as time goes.
+
 ### YouTube Metrics Web App Dashboard
 🔗[`Github`](https://github.com/itsalamhere/YT-dashboard-streamlit) [`Streamlit`](https://yt-dashboard-app-k5smefz5gaj39bweayxre2.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `marketing` `business` `YouTube` `Python` `Streamlit`  
 
