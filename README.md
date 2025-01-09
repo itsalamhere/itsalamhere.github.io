@@ -5,7 +5,7 @@ Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia �
 ### SportsLogs: Sport Logging Web-App Dashboard
 🔗[`Github`](https://github.com/itsalamhere/sports-logs-streamlit/tree/master) [`Streamlit`](https://sports-logs-app-iwtkcdcfze2kebejv55swz.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `sport` `Python` `Streamlit`  
 
-This project transforms 10+ different datasets from biometric sensor (FitBit), sports logging (PMSys), and Google Docs into a web-app dashboard visualizing the performance of 16 players. The web-app has two features: **The Whole Team** (limited) and **Individual Player** (p01 - p16). The visuals varies from calories burned, active metrics in one player's sport activities, sleep stages on a specific date, up to wellness score each week.
+This project transforms 10+ different datasets from biometric sensor (FitBit), sports logging (PMSys), and Google Docs into a list of dashboards visualizing the performance of 16 players. The web-app has two features: **The Whole Team** (limited) and **Individual Player** (p01 - p16). The visuals varies from calories burned, active metrics in one player's sport activities, sleep stages on a specific date, up to wellness score each week.
 
 ### Alam's Productivity Tracker
 🔗[`Looker`](https://lookerstudio.google.com/reporting/a13a8300-6ec0-4c8e-a750-ca3b258f59fd/page/bJDYE) 🏷️`dashboarding` `personal-project` `looker`
