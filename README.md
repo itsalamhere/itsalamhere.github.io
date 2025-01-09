@@ -1,6 +1,11 @@
 # 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
 
-Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of notebooks I've done on data science. Hope you enjoy!
+Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of projects I've done on data science in various topics from healthcare to marketing. Hope you enjoy!
+
+### SportsLogs: Sport Logging Web-App Dashboard
+🔗[`Streamlit`](https://sports-logs-app-iwtkcdcfze2kebejv55swz.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `sport` `Python` `Streamlit`  
+
+This project transforms 10+ different datasets from biometric sensor (FitBit), sports logging (PMSys), and Google Docs into a web-app dashboard visualizing the performance of 16 players. The web-app has two features: **The Whole Team** (limited) and **Individual Player** (p01 - p16). The visuals varies from calories burned, active metrics in one player's sport activities, sleep stages on a specific date, up to wellness score each week.
 
 ### Alam's Productivity Tracker
 🔗[`Looker`](https://lookerstudio.google.com/reporting/a13a8300-6ec0-4c8e-a750-ca3b258f59fd/page/bJDYE) 🏷️`dashboarding` `personal-project` `looker`
