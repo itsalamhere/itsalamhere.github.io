@@ -5,7 +5,7 @@ Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia �
 ### Dashboard of Pharma Sales: Kimia Farma, Indonesia
 🔗[`Looker`](https://lookerstudio.google.com/reporting/a70bc6c6-28ef-47ce-a3d6-f1eea9faea19) 🏷️`dashboarding` `pharma` `looker`
 
-This project transforms 6M+ transactions of Kimia Farma, a pharma retail with 1500+ branches in 31 provinces across Indonesia, into a map-based dashboard with conveying metrics of ratings, branches, and products. The data is given from the company with its data anonymized to protect the tue nature of the business. The dashboard can be filtered by island, province, and city for further details.
+This project transforms *600K+ transactions of Kimia Farma, a pharma retail with 1500+ branches in 31 provinces across Indonesia, into a map-based dashboard with conveying metrics of ratings, branches, and products. The data is given from the company with its data anonymized to protect the tue nature of the business. The dashboard can be filtered by island, province, and city for further details.
 
 ### SportsLogs: Sports Logging Web App Dashboard
 🔗[`Github`](https://github.com/itsalamhere/sports-logs-streamlit/tree/master) [`Streamlit`](https://sports-logs-app-iwtkcdcfze2kebejv55swz.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `sport` `Python` `Streamlit`  
