@@ -8,7 +8,7 @@ Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia �
 This project transforms *600K+ transactions of Kimia Farma, a pharma retail with 1500+ branches in 31 provinces across Indonesia, into a map-based dashboard with conveying metrics of ratings, branches, and products. The data is given from the company with its data anonymized to protect the tue nature of the business. The dashboard can be filtered by island, province, and city for further details.
 
 ### SportsLogs: Sports Logging Web App Dashboard
-🔗[`Github`](https://github.com/itsalamhere/sports-logs-streamlit/tree/master) [`Streamlit`](https://sports-logs-app-iwtkcdcfze2kebejv55swz.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `sport` `Python` `Streamlit`  
+🔗[`Github`](https://github.com/itsalamhere/sports-logs) [`Streamlit`](https://sports-logs-ycdcdsxzjxlppdp3zrjxao.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `sport` `Python` `Streamlit`  
 
 This project transforms 10+ different datasets from biometric sensor (FitBit), sports logging (PMSys), and Google Docs into a list of dashboards visualizing the performance of 16 players. The web app is available to visualize **the Whole Team** (with limited data) and **individual player** (p01 - p16). The visuals varies from calories burned, active metrics in one player's sport activities, sleep stages on a specific date, up to wellness score each week.
 
