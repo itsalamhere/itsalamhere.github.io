@@ -1,14 +1,14 @@
 # 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
 
-Hello! 👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 Currently I'm learning data science via an online course with several projects along the journey. This website consists of a compilation of projects I've done on data science in various topics from healthcare to marketing. Hope you enjoy!
+Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I'm currently making projects in healthcare and other domains through learning by doing. This website consists of a compilation of portfolio I've done along the journey. Hope you enjoy!
 
 ### Dashboard of Pharma Sales: Kimia Farma, Indonesia
 🔗[`Looker`](https://lookerstudio.google.com/reporting/1e26a0ae-fa0e-4357-8fee-8af1d2484a87) 🏷️`dashboarding` `pharma` `looker`
 
-This project transforms *600K+ transactions of Kimia Farma, a pharma retail with 1500+ branches in 31 provinces across Indonesia, into a map-based dashboard with conveying metrics of ratings, branches, and products. The data is given from the company with its data anonymized to protect the tue nature of the business. The dashboard can be filtered by island, province, and city for further details.
+This project transforms 600K+ transactions of Kimia Farma, a pharma retail with 1500+ branches in 31 provinces across Indonesia, into a map-based dashboard with conveying metrics of ratings, branches, and products. The data is given from the company with its data anonymized to protect the tue nature of the business. The dashboard can be filtered by island, province, and city for further details.
 
 ### SportsLogs: Sports Logging Web App Dashboard
-🔗[`Github`](https://github.com/itsalamhere/sports-logs) [`Streamlit`](https://sports-logs-ycdcdsxzjxlppdp3zrjxao.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `sport` `Python` `Streamlit`  
+🔗 [`nbviewwe`](https://nbviewer.org/github/itsalamhere/sports-logs/blob/main/notebook/EDA-and-data-processing.ipynb) [`Github`](https://github.com/itsalamhere/sports-logs) [`Streamlit`](https://sports-logs-ycdcdsxzjxlppdp3zrjxao.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `sport` `Python` `Streamlit`  
 
 This project transforms 10+ different datasets from biometric sensor (FitBit), sports logging (PMSys), and Google Docs into a list of dashboards visualizing the performance of 16 players. The web app is available to visualize **the Whole Team** (with limited data) and **individual player** (p01 - p16). The visuals varies from calories burned, active metrics in one player's sport activities, sleep stages on a specific date, up to wellness score each week.
 
