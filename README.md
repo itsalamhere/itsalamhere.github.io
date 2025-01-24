@@ -1,6 +1,6 @@
 # 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
 
-Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I'm currently making projects in healthcare and other domains through learning by doing. This website consists of a compilation of portfolio I've done along the journey. Hope you enjoy!
+Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I'm currently making projects through learning by doing in healthcare and other domains. This website consists of a compilation of portfolio I've done along the journey. Hope you enjoy!
 
 ### Dashboard of Pharma Sales: Kimia Farma, Indonesia
 🔗[`Looker`](https://lookerstudio.google.com/reporting/1e26a0ae-fa0e-4357-8fee-8af1d2484a87) 🏷️`dashboarding` `pharma` `looker`
