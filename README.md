@@ -1,4 +1,4 @@
-# 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
+![image](https://github.com/user-attachments/assets/583f58db-0fc0-4e08-8ce0-f28bf157c863)# 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
 
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I'm currently making projects through learning by doing in healthcare and other domains. This website consists of a compilation of portfolio I've done along the journey. Hope you enjoy!
 
@@ -10,7 +10,7 @@ Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮
 This project transforms 600K+ transactions of Kimia Farma, a pharma retail with 1500+ branches in 31 provinces across Indonesia, into a map-based dashboard with conveying metrics of ratings, branches, and products. The data is given from the company with its data anonymized to protect the tue nature of the business. The dashboard can be filtered by island, province, and city for further details.
 
 ### SportsLogs: Sports Logging Web App Dashboard
-🔗 [`nbviewwe`](https://nbviewer.org/github/itsalamhere/sports-logs/blob/main/notebook/EDA-and-data-processing.ipynb) [`Github`](https://github.com/itsalamhere/sports-logs) [`Streamlit`](https://sports-logs-ycdcdsxzjxlppdp3zrjxao.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `sport` `Python` `Streamlit`  
+🔗 [`nbviewer`](https://nbviewer.org/github/itsalamhere/sports-logs/blob/main/notebook/EDA-and-data-processing.ipynb) [`Github`](https://github.com/itsalamhere/sports-logs) [`Streamlit`](https://sports-logs-ycdcdsxzjxlppdp3zrjxao.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `sport` `Python` `Streamlit`  
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/sports-logs/sports-logs.png)
 
@@ -26,15 +26,21 @@ This project utilizes a personal archive of daily Pomodoro sessions, task and la
 ### YouTube Metrics Web App Dashboard
 🔗[`Github`](https://github.com/itsalamhere/YT-dashboard-streamlit) [`Streamlit`](https://yt-dashboard-app-k5smefz5gaj39bweayxre2.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `marketing` `business` `YouTube` `Python` `Streamlit`  
 
+![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/youtube-metrics/youtube-metrics.png)
+
 This project transforms datasets of aggregated metrics by 200+ videos and country and subscriber status, along with comments and performance over time, into a web app dashboard with Python and Streamlit with two features: **Aggregate Metrics** for the whole channel, and **Individual Video Analysis** for deeper insights per video.
 
 ### Research Payments of Non-Covered Recipient Entity (NCRE) in the United States 2023
 🔗[`Github`](https://github.com/itsalamhere/research-payments-ncre-2023/blob/main/README.md) | `nbviewer`: [`01-data-cleaning`](https://nbviewer.org/github/itsalamhere/research-payments-ncre-2023/blob/main/01-data-cleaning.ipynb) [`02-data-analysis-bigquery`](https://nbviewer.org/github/itsalamhere/research-payments-ncre-2023/blob/main/02-data-analysis-bigquery.ipynb) | `Tableau`: [`03-research-payments-NCRE-2023`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/research-payments-NCRE-2023/ResearchPayments2023-NCREs) 🏷️`healthcare` `RnD` `CMS` `real-world-data` `BigQuery` `Python` `Tableau`
 
+![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/US-research-payments/US-research-payments.png)
+
 This project visualizes research payments of NCREs in form of a dashboard of Tableau connected with database of BigQuery. The dataset are taken from [CMS Open Payments](https://openpaymentsdata.cms.gov/), then cleaned from `ParsingError` in Python, and analyzed through SQLs of BigQuery. The dashboard showcases NCRE records by state, and also research payments by therapeutic area, product, and NCREs. It also comes along with parameters of Smart Search, Product Category, and Top N [5-20].
 
 ### Product Segmentation and Customer Classification in an Online Retail Company
 🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/product-segmentation-and-customer-classification.ipynb) 🏷️`clustering` `k-means` `wordcloud` `pca` `machine-learning` `marketing-data-science`
+
+![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/clustering-online-retail/clustering-online-retail.png)
 
 This project cleans 1M+ data of 2-year-transactions in a [UK online retail company](https://archive.ics.uci.edu/dataset/502/online+retail+ii) into 760K+ invoices with respective cancellations cleaned into a column, clusters the data into 6 categories of products and 11 categories of customers, and classify the test customers with a combination of 3 best models inside a `VotingClassifier` with an accuracy of `91.5696%`.
 
@@ -46,6 +52,8 @@ Udacity conducts an experiment of commitment check by adding hours to devote per
 ### Drug Reviews on [drugs.com](drugs.com): Dashboard and Sentiment Prediction 💊📊⚙️
 🔗 [`Github`](https://github.com/itsalamhere/drug-reviews) | [`Tableau (updated with BigQuery)`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/DrugReviews-bigquery/drug-reviews-bigquery) | `nbviewer`: 
 [`01-EDA-and-data-cleaning`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/01-EDA-and-data-cleaning.ipynb) [`02-import-csv-to-postgresql`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/02-import-csv-to-postgresql.ipynb) [`03-dashboard-of-drug-reviews`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/03-dashboard-of-drug-reviews.ipynb) [`04-sentiment-prediction`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/04-sentiment-prediction.ipynb) 🏷️`big-data` `data-cleaning` `Python` `PostgreSQL` `BigQuery` `Tableau` `natural-language-processing`
+
+![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/drug-reviews/drug-reviews.png)
 
 This project processes a 16-year [dataset](https://data.mendeley.com/datasets/64cc5w5dxy/1) of drug reviews by 390,000+ consumers into 4 sections: data cleaning and exploration, database management in PostgreSQL, data visualization in Tableau, and sentiment prediction through deep learning and transformers. 
 
