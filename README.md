@@ -3,7 +3,7 @@
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I'm currently making projects through learning by doing in healthcare and other domains. This website consists of a compilation of portfolio I've done along the journey. Hope you enjoy!
 
 ### DataCo Supply Chain Dashboard
-🔗[`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/DataCo-Supply-Chain/CustomerDistribution) 🏷️`e-commerce` `supply-chain` `big-data` `tableau`
+🔗[`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/DataCo-Supply-Chain/OrderDistribution) 🏷️`e-commerce` `supply-chain` `big-data` `tableau`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/dataco-supply-chain/dataco-supply-chain.png)
 
