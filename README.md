@@ -2,6 +2,13 @@
 
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I'm currently making projects through learning by doing in healthcare and other domains. This website consists of a compilation of portfolio I've done along the journey. Hope you enjoy!
 
+### DataCo Supply Chain Dashboard
+🔗[`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/DataCo-Supply-Chain/CustomerDistribution) 🏷️`e-commerce` `supply-chain` `big-data` `tableau`
+
+![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/dataco-supply-chain/dataco-supply-chain.png)
+
+This project transforms 180K+ transactions in a supply chain of multiple products into three dashboards displaying the distributions of orders, customers, products, and also shipping. It features 10+ metrics, 6 parameters, and options to download image of current findings--this could help in exploring further insights and enabling ad-hoc data requests.
+
 ### Dashboard of Pharma Sales: Kimia Farma, Indonesia
 🔗[`Looker`](https://lookerstudio.google.com/reporting/1e26a0ae-fa0e-4357-8fee-8af1d2484a87) 🏷️`dashboarding` `pharma` `looker`
 
