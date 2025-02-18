@@ -10,7 +10,7 @@ Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮
 This project transforms 180K+ transactions in a supply chain of multiple products into three dashboards displaying the distributions of orders, customers, products, and also shipping. It features 10+ metrics, 6 parameters, and options to download image of current findings--this could help in exploring further insights and enabling ad-hoc data requests.
 
 ### Dashboard of Pharma Sales: Kimia Farma, Indonesia
-🔗[`Looker`](https://lookerstudio.google.com/reporting/1e26a0ae-fa0e-4357-8fee-8af1d2484a87) 🏷️`dashboarding` `pharma` `looker`
+🔗[`Looker`](https://lookerstudio.google.com/u/0/reporting/1e26a0ae-fa0e-4357-8fee-8af1d2484a87/page/O4raE) 🏷️`dashboarding` `pharma` `looker`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/pharma-sales/pharma-sales-kimia-farma.png)
 
