@@ -1,6 +1,6 @@
 # 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
 
-Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I'm currently making projects through learning by doing in healthcare and other domains. This website consists of a compilation of portfolio I've done along the journey. Hope you enjoy!
+Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare and other domains along the journey, all of which are compiled here. Hope you enjoy!
 
 ### DataCo Supply Chain Dashboard
 🔗[`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/DataCo-Supply-Chain/OrderDistribution) 🏷️`e-commerce` `supply-chain` `big-data` `tableau`
