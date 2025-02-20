@@ -38,7 +38,7 @@ This project utilizes a personal archive of daily Pomodoro sessions, task and la
 This project processes datasets of aggregated metrics by 200+ videos and country and subscriber status, along with comments and performance over time, into a web app dashboard with Python and Streamlit with two features: **Aggregate Metrics** for the whole channel, and **Individual Video Analysis** for deeper insights per video.
 
 ### Data Platform for Automation in Drug Clearance Letter Generation
-🔗[`Loom`](https://www.loom.com/share/6d38b47cc3ca48c6b9edf49bea05985e) 🏷️`data-platform` `automation` `google-sheets` `google-app-script`
+🔗📽️[`Loom`](https://www.loom.com/share/6d38b47cc3ca48c6b9edf49bea05985e) 🏷️`data-platform` `automation` `google-sheets` `google-app-script`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/drug-clearance-letter/drug-clearance-letter.png)
 
