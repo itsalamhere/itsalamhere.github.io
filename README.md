@@ -7,21 +7,21 @@ Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/dataco-supply-chain/dataco-supply-chain.png)
 
-This project transforms 180K+ transactions in a supply chain of multiple products into three dashboards displaying the distributions of orders, customers, products, and also shipping. It features 10+ metrics, 6 parameters, and options to download image of current findings--this could help in exploring further insights and enabling ad-hoc data requests.
+In this project I'm turning 180K+ transactions in a supply chain of multiple products into three dashboards displaying the distributions of orders, customers, products, and also shipping. It features 10+ metrics, 6 parameters, and options to download image of current findings--this could help in exploring further insights and enabling ad-hoc data requests.
 
 ### Dashboard of Pharma Sales: Kimia Farma, Indonesia
 🔗[`Looker`](https://lookerstudio.google.com/u/0/reporting/1e26a0ae-fa0e-4357-8fee-8af1d2484a87/page/O4raE) 🏷️`dashboarding` `pharma` `looker`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/pharma-sales/pharma-sales-kimia-farma.png)
 
-This project transforms 600K+ transactions of Kimia Farma, a pharma retail with 1500+ branches in 31 provinces across Indonesia, into a map-based dashboard with conveying metrics of ratings, branches, and products. The data is given from the company with its data anonymized to protect the tue nature of the business. The dashboard can be filtered by island, province, and city for further details.
+In this project I'm transforming 600K+ transactions of Kimia Farma, a pharma retail with 1500+ branches in 31 provinces across Indonesia, into a map-based dashboard with conveying metrics of ratings, branches, and products. The data is given from the company with its data anonymized to protect the tue nature of the business. The dashboard can be filtered by island, province, and city for further details.
 
 ### SportsLogs: Sports Logging Web App Dashboard
 🔗 [`nbviewer`](https://nbviewer.org/github/itsalamhere/sports-logs/blob/main/notebook/EDA-and-data-processing.ipynb) [`Github`](https://github.com/itsalamhere/sports-logs) [`Streamlit`](https://sports-logs-ycdcdsxzjxlppdp3zrjxao.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `sport` `Python` `Streamlit`  
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/sports-logs/sports-logs.png)
 
-This project transforms 10+ different datasets from biometric sensor (FitBit), sports logging (PMSys), and Google Docs into a list of dashboards visualizing the performance of 16 players. The web app is available to visualize **the Whole Team** (with limited data) and **individual player** (p01 - p16). The visuals varies from calories burned, active metrics in one player's sport activities, sleep stages on a specific date, up to wellness score each week.
+In this project I manage to process 10+ different datasets from biometric sensor (FitBit), sports logging (PMSys), and Google Docs into a list of dashboards visualizing the performance of 16 players. The web app is available to visualize **the Whole Team** (with limited data) and **individual player** (p01 - p16). The visuals varies from calories burned, active metrics in one player's sport activities, sleep stages on a specific date, up to wellness score each week.
 
 ### Alam's Productivity Tracker
 🔗[`Looker`](https://lookerstudio.google.com/reporting/a13a8300-6ec0-4c8e-a750-ca3b258f59fd/page/bJDYE) 🏷️`dashboarding` `personal-project` `looker`
@@ -35,7 +35,14 @@ This project utilizes a personal archive of daily Pomodoro sessions, task and la
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/youtube-metrics/youtube-metrics.png)
 
-This project transforms datasets of aggregated metrics by 200+ videos and country and subscriber status, along with comments and performance over time, into a web app dashboard with Python and Streamlit with two features: **Aggregate Metrics** for the whole channel, and **Individual Video Analysis** for deeper insights per video.
+This project processes datasets of aggregated metrics by 200+ videos and country and subscriber status, along with comments and performance over time, into a web app dashboard with Python and Streamlit with two features: **Aggregate Metrics** for the whole channel, and **Individual Video Analysis** for deeper insights per video.
+
+### Data Platform for Automation in Drug Clearance Letter Generation
+🔗[`Loom`](https://www.loom.com/share/6d38b47cc3ca48c6b9edf49bea05985e) 🏷️`data-platform` `automation` `google-sheets` `google-app-script`
+
+![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/drug-clearance-letter/drug-clearance-letter.png)
+
+In this project I manage to create a data platform in generating a drug clearance letter by turning form inputs of drug test results in Google Forms into a document file assorted from the data. This project features Google Sheets for further data processing (with usage of REGEXMATCH, LET, VLOOKUP), Google Docs for document template, Google App Scripts for search engine by Citizen ID and dynamic markdown in Google Forms, and Google Drive for data storage grouped per medical provider.
 
 ### Research Payments of Non-Covered Recipient Entity (NCRE) in the United States 2023
 🔗[`Github`](https://github.com/itsalamhere/research-payments-ncre-2023/blob/main/README.md) | `nbviewer`: [`01-data-cleaning`](https://nbviewer.org/github/itsalamhere/research-payments-ncre-2023/blob/main/01-data-cleaning.ipynb) [`02-data-analysis-bigquery`](https://nbviewer.org/github/itsalamhere/research-payments-ncre-2023/blob/main/02-data-analysis-bigquery.ipynb) | `Tableau`: [`03-research-payments-NCRE-2023`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/research-payments-NCRE-2023/ResearchPayments2023-NCREs) 🏷️`healthcare` `RnD` `CMS` `real-world-data` `BigQuery` `Python` `Tableau`
