@@ -7,7 +7,7 @@ Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/ariana-grande-merch-inventory/inventory-and-sales-dashboard-00.png)
 
-In this project I'm making a dashboard from a combined [inventory data](https://www.kaggle.com/datasets/madroscla/ariana-grande-webstore-inventory) in shop.arianagrande.com within a timespan of 1 month since the latest album release "Eternal Sunshine". The dashboard includes estimated sales for each product across the month along with distribution of variants, categories, restock histories, along with the album era.
+In this project I'm making a dashboard from a combined [inventory data](https://www.kaggle.com/datasets/madroscla/ariana-grande-webstore-inventory) from shop.arianagrande.com within a timespan of 1 month since the latest album release "Eternal Sunshine". The dashboard includes estimated sales for each product across the month along with distribution of sold products, variants, categories, restock histories, and album era.
 
 ### DataCo Supply Chain Dashboard
 🔗[`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/DataCo-Supply-Chain/OrderDistribution) 🏷️`e-commerce` `supply-chain` `big-data` `tableau`
