@@ -1,6 +1,13 @@
-# 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
+![image](https://github.com/user-attachments/assets/efc38e13-0033-4a63-aed5-730609493907)# 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
 
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare and other domains along the journey, all of which are compiled here. Hope you enjoy!
+
+### Inventory and Sales Dashboard: shop.arianagrande.com
+🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/ariana-grande-merch-inventory/EDA-and-data-processing.ipynb) 🏷️`shopify` `inventory` `real-world-data` `power-bi`
+
+![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/ariana-grande-merch-inventory/inventory-and-sales-dashboard-00.png)
+
+In this project I'm making a dashboard from a combined [inventory data](https://www.kaggle.com/datasets/madroscla/ariana-grande-webstore-inventory) in shop.arianagrande.com within a timespan of 1 month since the latest album release "Eternal Sunshine". The dashboard includes estimated sales for each product across the month along with distribution of variants, categories, restock histories, along with the album era.
 
 ### DataCo Supply Chain Dashboard
 🔗[`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/DataCo-Supply-Chain/OrderDistribution) 🏷️`e-commerce` `supply-chain` `big-data` `tableau`
