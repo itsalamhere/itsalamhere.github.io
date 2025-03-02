@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/efc38e13-0033-4a63-aed5-730609493907)# 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
+# 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
 
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare and other domains along the journey, all of which are compiled here. Hope you enjoy!
 
