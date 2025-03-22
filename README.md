@@ -3,7 +3,7 @@
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare and other domains along the journey, all of which are compiled here. Hope you enjoy!
 
 ### E-Commerce Sales Dashboard
-#### 🔗`Excel` 🏷️`sales` `e-commerce` `excel`
+#### 🔗[`Excel`](https://1drv.ms/x/c/b036261636753096/ESauUFaaKbpEi41YXfd4qX0BjUHOaP0cHxV08j_lQyXd7A?e=JOtZzS) 🏷️`sales` `e-commerce` `excel`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/ecommerce-sales-excel/ecommerce-sales-excel.png)
 
