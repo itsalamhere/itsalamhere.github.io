@@ -2,6 +2,13 @@
 
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare and other domains along the journey, all of which are compiled here. Hope you enjoy!
 
+### E-Commerce Sales Dashboard
+🏷️`sales` `e-commerce` `excel`
+
+![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/ecommerce-sales-excel/ecommerce-sales-excel.png)
+
+In this project I'm making a dashboard of 40,000+ e-commerce sales of 4 product categories in Excel. The dashboard takes in mind of tracking relevant metrics for sales and shipping, along with groups of category segments, top 10 countries, and unique products, and slicers to explore further insights by customer segments.
+
 ### Inventory and Sales Dashboard: shop.arianagrande.com
 🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/ariana-grande-merch-inventory/EDA-and-data-processing.ipynb) 🏷️`shopify` `inventory` `real-world-data` `power-bi`
 
