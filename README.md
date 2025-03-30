@@ -2,6 +2,13 @@
 
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare and other domains along the journey, all of which are compiled here. Hope you enjoy!
 
+### Airline Loyalty Programs Dashboard
+#### 🔗[`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/airline-loyalty-programs/Amethyst-Airlines) 🏷️`subscription` `airline-data` `tableau`
+
+![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/airline-loyalty-programs/airline-loyalty-programs.png)
+
+In this project I'm creating a dashboard of an [airline loyalty programs](https://www.kaggle.com/datasets/agungpambudi/airline-loyalty-campaign-program-impact-on-flights) spanning for 6-years with 10,000+ total customers across 29 cities in Canada. The dashboard displays explorative features for extracting insights such asx demographics, customer segments, cohort analysis, along with flight activities of booked filghts and redeemed points. 
+
 ### E-Commerce Sales Dashboard
 #### 🔗[`Excel`](https://1drv.ms/x/c/b036261636753096/ESauUFaaKbpEi41YXfd4qX0BjUHOaP0cHxV08j_lQyXd7A?e=JOtZzS) 🏷️`sales` `e-commerce` `excel`
 
