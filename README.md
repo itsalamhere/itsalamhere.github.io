@@ -11,7 +11,7 @@ Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/olist-dashboard/olist-sellers-marketing-funnel.png)
 
-In this project I've conducted data cleaning and data analysis in an 1.5-year e-commerce data of OLIST in brazil with Python to define the direction of creating the dashboard, and developed a dashboard with insights aimed towards  customer acquisition strategies in Tableau. The dashboard consists of 8 metrics with monthly values and MoM growth, metrics by demographics, sales growth by product categories, and performance of sellers marketing funnels such as landing pages, acquisition channels, and sales representatives.
+In this project I've conducted data cleaning and data analysis in an 1.5-year e-commerce data of [OLIST](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) Brazil with Python, and developed two dashboards in Tableau. In Python, the processes are aimed to define dashboard purposes, and the dashboard are developed with insights towards customer acquisition. The dashboard consists of 8 metrics with monthly values and MoM growth, metrics by demographics, sales growth by product categories, and performance of sellers marketing funnels such as landing pages, acquisition channels, and sales representatives.
 
 ### Airline Loyalty Programs Dashboard
 #### 🔗[`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/airline-loyalty-programs/Amethyst-Airlines) 🏷️`subscription` `airline-data` `tableau`
