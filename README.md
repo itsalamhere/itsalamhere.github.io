@@ -1,6 +1,17 @@
-# 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
+# <p align="center">🧑‍💻Data Science Portfolio by Mohamad Alamsyah</p>
 
-Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare and other domains along the journey, all of which are compiled here. Hope you enjoy!
+## <p align="center">[Tableau](https://public.tableau.com/app/profile/mohamad.alamsyah/vizzes) | [Github](https://github.com/itsalamhere) | [LinkedIn](https://www.linkedin.com/in/mohamadalamsyah/)</p>
+
+Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare and other domains along the journey, all of which are compiled here. Thanks for checking in, and hope you enjoy!
+
+### OLIST Dashboard: Customer Sales and Sellers Marketing Funnel
+#### Python: [`EDA-and-data-cleaning`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/olist-dashboard/EDA-and-data-cleaning.ipynb) [`data-analysis`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/olist-dashboard/data-analysis.ipynb) | [`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/olist-dashboard/CustomerSales) 🏷️ `e-commerce` `real-world-data` `python` `tableau`
+
+![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/olist-dashboard/olist-customer-sales.png)
+
+![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/olist-dashboard/olist-sellers-marketing-funnel.png)
+
+In this project I've conducted data cleaning and data analysis in an 1.5-year e-commerce data of OLIST in brazil with Python to define the direction of creating the dashboard, and developed a dashboard with insights aimed towards  customer acquisition strategies in Tableau. The dashboard consists of 8 metrics with monthly values and MoM growth, metrics by demographics, sales growth by product categories, and performance of sellers marketing funnels such as landing pages, acquisition channels, and sales representatives.
 
 ### Airline Loyalty Programs Dashboard
 #### 🔗[`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/airline-loyalty-programs/Amethyst-Airlines) 🏷️`subscription` `airline-data` `tableau`
