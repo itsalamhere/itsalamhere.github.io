@@ -2,7 +2,7 @@
 
 ## [Tableau](https://public.tableau.com/app/profile/mohamad.alamsyah/vizzes) | [Github](https://github.com/itsalamhere) | [LinkedIn](https://www.linkedin.com/in/mohamadalamsyah/)
 
-Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare and other domains along the journey, all of which are compiled here. Thanks for checking in, and hope you enjoy!
+Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare, business, and more along the journey--all of which are compiled here. Thanks for checking in, and hope you enjoy!
 
 ### OLIST Dashboard: Customer Sales and Sellers Marketing Funnel
 #### Python: [`EDA-and-data-cleaning`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/olist-dashboard/EDA-and-data-cleaning.ipynb) [`data-analysis`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/olist-dashboard/data-analysis.ipynb) | [`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/olist-dashboard/CustomerSales) 🏷️ `e-commerce` `real-world-data` `python` `tableau`
