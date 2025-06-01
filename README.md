@@ -1,6 +1,6 @@
-# <p align="center">🧑‍💻Data Science Portfolio by Mohamad Alamsyah</p>
+# 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
 
-## <p align="center">[Tableau](https://public.tableau.com/app/profile/mohamad.alamsyah/vizzes) | [Github](https://github.com/itsalamhere) | [LinkedIn](https://www.linkedin.com/in/mohamadalamsyah/)</p>
+## [Tableau](https://public.tableau.com/app/profile/mohamad.alamsyah/vizzes) | [Github](https://github.com/itsalamhere) | [LinkedIn](https://www.linkedin.com/in/mohamadalamsyah/)
 
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare and other domains along the journey, all of which are compiled here. Thanks for checking in, and hope you enjoy!
 
