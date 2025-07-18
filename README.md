@@ -4,8 +4,15 @@
 
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare, business, and more along the journey--all of which are compiled here. Thanks for checking in, and hope you enjoy!
 
+### Market Research: AI Skincare Startup
+#### 🔗[`Python`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/market-research-AI-skincare-data-cleaning.ipynb) [`Excel`](https://1drv.ms/x/c/b036261636753096/EU990HWXGSpPvGrPFIOjhAYBGNEMeK29l2WBP7YZQPKTAg?e=9HeYG3&nav=MTVfezMyQUM1NUVFLTI1MjQtNDI3Qy04QTFCLUVFMkVEMkVDRENEMH0) 🏷️`data-analysis` `market-research` `excel` `powerquery` 
+
+![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/market-research-AI-skincare-startup/market-research-dashboard-excel.png)
+
+In this project I've created a dashboard for market research on AI skincare startup from 10000 Malaysian respondents ([dataset here](https://www.kaggle.com/datasets/mhazlimi/skincare-survey-among-malaysian-2021-2022)). The dashboard visualizes the demographics, responses in yes/no questions and Likert Scale, records on skin types, along with behavioral preferences in choosing skincare.
+
 ### OLIST Dashboard: Customer Sales and Sellers Marketing Funnel
-#### Python: [`EDA-and-data-cleaning`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/olist-dashboard/EDA-and-data-cleaning.ipynb) [`data-analysis`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/olist-dashboard/data-analysis.ipynb) | [`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/olist-dashboard/CustomerSales) 🏷️ `e-commerce` `real-world-data` `python` `tableau`
+#### 🔗Python: [`EDA-and-data-cleaning`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/olist-dashboard/EDA-and-data-cleaning.ipynb) [`data-analysis`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/olist-dashboard/data-analysis.ipynb) | [`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/olist-dashboard/CustomerSales) 🏷️ `e-commerce` `real-world-data` `python` `tableau`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/olist-dashboard/olist-customer-sales.png)
 
