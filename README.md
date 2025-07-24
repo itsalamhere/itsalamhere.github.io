@@ -5,7 +5,7 @@
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare, business, and more along the journey--all of which are compiled here. Thanks for checking in, and hope you enjoy!
 
 ### Market Research: AI Skincare Startup
-#### 🔗[`Python`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/market-research-AI-skincare-data-cleaning.ipynb) [`Excel`](https://1drv.ms/x/c/b036261636753096/EU990HWXGSpPvGrPFIOjhAYBGNEMeK29l2WBP7YZQPKTAg?e=9HeYG3&nav=MTVfezMyQUM1NUVFLTI1MjQtNDI3Qy04QTFCLUVFMkVEMkVDRENEMH0) 🏷️`data-analysis` `market-research` `excel` `powerquery` 
+#### 🔗[`Python`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/market-research-AI-skincare-data-cleaning.ipynb) [`Excel`](https://1drv.ms/x/c/b036261636753096/EU990HWXGSpPvGrPFIOjhAYBGNEMeK29l2WBP7YZQPKTAg?e=9HeYG3&nav=MTVfezMyQUM1NUVFLTI1MjQtNDI3Qy04QTFCLUVFMkVEMkVDRENEMH0) [`Report`](https://drive.google.com/file/d/11Nbtca308ZUmB9pdmfXv6bjKhTwXpkTR/view) 🏷️`data-analysis` `market-research` `excel` `powerquery` 
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/market-research-AI-skincare-startup/market-research-dashboard-excel.png)
 
