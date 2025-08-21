@@ -5,11 +5,11 @@
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare, business, and more along the journey--all of which are compiled here. Thanks for checking in, and hope you enjoy!
 
 ### Influencer Marketing Campaign Dashboard
-#### 🔗[`Excel`](https://1drv.ms/x/c/b036261636753096/EdQwBi854BVPjcdGVs6zQUUBTGdX6a3cH5ApAile9yK_Bw?e=syxx4a&nav=MTVfe0RDNjBFRjQzLUEyMTEtNEExMy05QUE3LUVERUVCNDQxN0FGQ30) 🏷️`data-analysis` `marketing` `excel` `powerquery`
+#### 🔗[`Excel`](https://1drv.ms/x/c/b036261636753096/EQrtLIOliG5FqzBNg4_eOfkB3GhMIYPCAmAstJZFHvyBsA?e=StnZbY&nav=MTVfe0RDNjBFRjQzLUEyMTEtNEExMy05QUE3LUVERUVCNDQxN0FGQ30) [`Report`](https://drive.google.com/file/d/1FpND_NHQsOgmLXp4d_Jsp0XDDYey6OXb/view?usp=sharing) 🏷️`data-analysis` `marketing` `Excel` `PowerQuery`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/influencer-marketing-campaign/influencer-marketing-campaign.png)
 
-In this project I've developed a dashboard on influencer marketing campaign from January 2022 to June 2024 ([dataset here](https://www.kaggle.com/datasets/tfisthis/influencer-marketing-roi-dataset)). The dashboard visualizes 5 different metrics: Avg. Engagements per Day, Avg. Forecast Engagement Accuracy, Avg. Conversion Rate, Avg. Return On Investments, and Avg. Return on Ad Spend. The dashboard has features of visualizing each sub-categories individually, along with adding baselines for comparison with overall metrics, creating a simple, yet comparable and actionable insights. 
+In this project I've developed a dashboard on influencer marketing campaign from January 2022 to June 2024 ([dataset here](https://www.kaggle.com/datasets/tfisthis/influencer-marketing-roi-dataset)). The dashboard visualizes 5 different KPIs: Avg. Engagements per Day, Avg. Forecast Engagement Accuracy, Avg. Conversion Rate, Avg. Return On Investments (ROI), and Avg. Return on Ad Spend (ROAS). The dashboard has features of visualizing each sub-categories individually, along with adding baselines for comparison with overall metrics, creating a simple, yet comparable and actionable insights. 
 
 ### Market Research: AI Skincare Startup
 #### 🔗[`Python`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/market-research-AI-skincare-data-cleaning.ipynb) [`Excel`](https://1drv.ms/x/c/b036261636753096/EU990HWXGSpPvGrPFIOjhAYBGNEMeK29l2WBP7YZQPKTAg?e=9HeYG3&nav=MTVfezMyQUM1NUVFLTI1MjQtNDI3Qy04QTFCLUVFMkVEMkVDRENEMH0) [`Report`](https://drive.google.com/file/d/11Nbtca308ZUmB9pdmfXv6bjKhTwXpkTR/view) 🏷️`data-analysis` `market-research` `excel` `powerquery` 
