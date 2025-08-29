@@ -1,6 +1,6 @@
 # 🧑‍💻Data Science Portfolio by Mohamad Alamsyah
 
-## [`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/vizzes) | [`GitHub`](https://github.com/itsalamhere) | [`LinkedIn`](https://www.linkedin.com/in/mohamadalamsyah/) | [`CV_Healthcare`](https://itsalamhere.github.io/CV_Healthcare.pdf) | [`CV_non-Healthcare`](https://itsalamhere.github.io/CV_non-Healthcare.pdf)
+## [`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/vizzes) | [`GitHub`](https://github.com/itsalamhere) | [`LinkedIn`](https://www.linkedin.com/in/mohamadalamsyah/)
 
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare, business, and more along the journey--all of which are compiled here. Thanks for checking in, and hope you enjoy!
 
