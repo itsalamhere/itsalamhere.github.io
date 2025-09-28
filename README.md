@@ -4,6 +4,13 @@
 
 Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮🇩 I've been creating projects in healthcare, business, and more along the journey--all of which are compiled here. Thanks for checking in, and hope you enjoy!
 
+### Hospital Inpatient Discharges New York, 2020-2023
+#### 🔗[`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/hospital-inpatient-discharges-NY-2020-2023/NY-Inpatient-Discharges) 🏷️`data-analysis` `dashboarding` `hospital` `Tableau`
+
+![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/NY-inpatient-discharges/NY-inpatient-discharges.mp4)
+
+In this project I've designed a dashboard from de-identified hospital inpatient discharges in New York from 2020 to 2023. The dashboard calculates three metrics in healthcare quality: Length of Stay, Emergency Department, and Covered Costs, with featuring patient demographics, diagnosis by coding system, and patient flow overview.
+
 ### Influencer Marketing Campaign Dashboard
 #### 🔗[`Report`](https://drive.google.com/file/d/1FpND_NHQsOgmLXp4d_Jsp0XDDYey6OXb/view?usp=sharing) 🏷️`data-analysis` `marketing` `Excel` `PowerQuery`
 
