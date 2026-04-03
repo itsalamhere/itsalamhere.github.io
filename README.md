@@ -9,120 +9,139 @@ Hello!👋 I'm Alam, a biomedical engineering fresh graduate from Indonesia 🇮
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/NY-inpatient-discharges/NY-inpatient-discharges.png)
 
-In this project I've designed a dashboard from de-identified hospital inpatient discharges in New York from 2020 to 2023. The dashboard calculates three metrics in healthcare quality: Length of Stay, Emergency Department, and Covered Costs, with featuring patient demographics, diagnosis by coding system, and patient flow overview.
+- Developed a dashboard from 8.4M+ data of de-identified hospital inpatient discharges in New York with Tableau to explore insights, featuring patient demographics, diagnosis by coding system, patient flow overview
+- Calculated three metrics with YoY growth in healthcare quality: Length of Stay, Emergency Department, and Total Covered Cost, mapped groups of diagnosis by ICD-10-CM body system for health workers, and created filters to enable further details, notably hospital service areas, discharge year, patient cohort, and demographics
 
 ### Influencer Marketing Campaign Dashboard
-#### 🔗[`Report`](https://drive.google.com/file/d/1FpND_NHQsOgmLXp4d_Jsp0XDDYey6OXb/view?usp=sharing) 🏷️`data-analysis` `marketing` `Excel` `PowerQuery`
+#### 🔗[`Dataset`](https://www.kaggle.com/datasets/tfisthis/influencer-marketing-roi-dataset) [`Report`](https://drive.google.com/file/d/1FpND_NHQsOgmLXp4d_Jsp0XDDYey6OXb/view?usp=sharing) 🏷️`data-analysis` `marketing` `Excel` `PowerQuery`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/influencer-marketing-campaign/influencer-marketing-campaign.png)
 
-In this project I've developed a dashboard on influencer marketing campaign from January 2022 to June 2024 ([dataset here](https://www.kaggle.com/datasets/tfisthis/influencer-marketing-roi-dataset)). The dashboard visualizes 5 different KPIs: Avg. Engagements per Day, Avg. Forecast Engagement Accuracy, Avg. Conversion Rate, Avg. Return On Investments (ROI), and Avg. Return on Ad Spend (ROAS). The dashboard has features of visualizing each sub-categories individually, along with adding baselines for comparison with overall metrics, creating a simple, yet comparable and actionable insights. 
+- Developed a dashboard from a 4-year data of influencers marketing campaign in Excel to track quarterly performance with notable metrics such as Conversion Rate, ROI, and ROAS
+- Grouped the data with PowerQuery into tables by 3 different categories of Platform, Influencers Category, and Campaign Type, added dropdowns and slicers to provide baselines, filter individual charts, and compare metrics
 
 ### Market Research: AI Startup in Skincare At Malaysia
-#### 🔗[`Python`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/market-research-AI-skincare-data-cleaning.ipynb) [`Report`](https://drive.google.com/file/d/11Nbtca308ZUmB9pdmfXv6bjKhTwXpkTR/view) 🏷️`data-analysis` `market-research` `excel` `PowerQuery` 
+#### 🔗[`Dataset`](https://www.kaggle.com/datasets/mhazlimi/skincare-survey-among-malaysian-2021-2022) [`Python`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/market-research-AI-skincare-data-cleaning.ipynb) [`Report`](https://drive.google.com/file/d/11Nbtca308ZUmB9pdmfXv6bjKhTwXpkTR/view) 🏷️`data-analysis` `market-research` `excel` `PowerQuery` 
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/market-research-AI-skincare-startup/market-research-dashboard-excel.png)
 
-In this project I've created a dashboard for market research on AI skincare startup from 10000 Malaysian respondents ([dataset here](https://www.kaggle.com/datasets/mhazlimi/skincare-survey-among-malaysian-2021-2022)). The dashboard visualizes the demographics, responses in yes/no questions and Likert Scale, records on skin types, along with behavioral preferences in choosing skincare. The project comes along with a report for recommendations for the product and marketing team.
+- Designed a dashboard in Excel from 5,000+ responses across Malaysia to check for brand awareness in AI skincare start-up, along with addressing pain points and preferences in buying skincare for market research
+- Proposed data-driven recommendations on both product development and marketing for AI skincare start-up from visualized responses of 19 skin types, 15 ingredient preferences, 8 product channels, and 5 marketplaces
 
 ### OLIST Dashboard: Customer Sales and Sellers Marketing Funnel
-#### 🔗Python: [`EDA-and-data-cleaning`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/olist-dashboard/EDA-and-data-cleaning.ipynb) [`data-analysis`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/olist-dashboard/data-analysis.ipynb) | [`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/olist-dashboard/CustomerSales) 🏷️ `e-commerce` `real-world-data` `python` `tableau`
+#### 🔗[`Dataset`](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) `Python:` [`EDA-and-data-cleaning`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/olist-dashboard/EDA-and-data-cleaning.ipynb) [`data-analysis`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/olist-dashboard/data-analysis.ipynb) | [`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/olist-dashboard/CustomerSales) 🏷️ `e-commerce` `real-world-data` `python` `tableau`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/olist-dashboard/olist-customer-sales.png)
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/olist-dashboard/olist-sellers-marketing-funnel.png)
 
-In this project I've conducted data cleaning and data analysis in an 1.5-year e-commerce data of [OLIST](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) Brazil with Python, and developed two dashboards in Tableau. In Python, the processes are aimed to define dashboard purposes, and the dashboard are developed with insights towards customer acquisition. The dashboard consists of 8 metrics with monthly values and MoM growth, metrics by demographics, sales growth by product categories, and performance of sellers marketing funnels such as landing pages, acquisition channels, and sales representatives.
+- Conducted data processing and cohort analysis from 10+ relational e-commerce datasets in customers sales and sellers marketing funnel with Python to uncover behavioral and sales insights
+- Proceeded to built two different dashboards in Tableau aimed towards insights for user acquisition, featuring 9 KPIs with MoM and QoQ, demographics, sales growth by product categories, landing pages, acquisition channels, and sales representatives
 
 ### Airline Loyalty Programs Dashboard
-#### 🔗[`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/airline-loyalty-programs/Amethyst-Airlines) 🏷️`subscription` `airline-data` `tableau`
+#### 🔗[`Dataset`](https://www.kaggle.com/datasets/agungpambudi/airline-loyalty-campaign-program-impact-on-flights) [`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/airline-loyalty-programs/Amethyst-Airlines) 🏷️`subscription` `airline-data` `tableau`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/airline-loyalty-programs/airline-loyalty-programs.png)
 
-In this project I'm creating a dashboard of an [airline loyalty programs](https://www.kaggle.com/datasets/agungpambudi/airline-loyalty-campaign-program-impact-on-flights) spanning for 6 years with 10,000+ total customers across 29 cities in Canada. The dashboard displays explorative features for extracting insights such as demographics, customer segments, cohort analysis, along with flight activities of booked flights and redeemed points. 
+- Developed a dashboard in Tableau from a 6-year loyalty history and flight activity data of a fictitious airline in Canada to display segments and behavior in 4,000 registered customers
+- Assembled visuals of customer segmentation by six variables, demographics, quarterly cohort analysis, booked flights and points, and scorecards for metrics of revenue, CLV, and churn rate
 
-### E-Commerce Sales Dashboard
+### E-Commerce Sales Dashboard, Ruby Goods
 #### 🔗[`Excel`](https://1drv.ms/x/c/b036261636753096/ESauUFaaKbpEi41YXfd4qX0BjUHOaP0cHxV08j_lQyXd7A?e=JOtZzS) 🏷️`sales` `e-commerce` `excel`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/ecommerce-sales-excel/ecommerce-sales-excel.png)
 
-In this project I'm making a dashboard of 40,000+ e-commerce sales of 4 product categories in Excel. The dashboard takes in mind of tracking relevant metrics for sales and shipping, along with groups of category segments, top 10 countries, and unique products, and slicers to explore further insights by customer segments.
+- Transformed 40,000+ e-commerce sales in four product categories into a dashboard in Excel tracking sales and shipping metrics
+- Conducted data analysis through PivotTable, created three slicers to filter data further, and streamlined the layouts for a user-friendly dashboard
+- Visualized total metrics by customer segments, top 10 countries with highest total sales and profit, and total sales by product
 
 ### Inventory and Sales Dashboard: shop.arianagrande.com
-#### 🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/ariana-grande-merch-inventory/EDA-and-data-processing.ipynb) 🏷️`shopify` `inventory` `real-world-data` `power-bi`
+#### 🔗[`Dataset`](https://www.kaggle.com/datasets/madroscla/ariana-grande-webstore-inventory) [`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/ariana-grande-merch-inventory/EDA-and-data-processing.ipynb) 🏷️`shopify` `inventory` `real-world-data` `power-bi`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/ariana-grande-merch-inventory/inventory-and-sales-dashboard-00.png)
 
-In this project I'm making a dashboard from a combined [inventory data](https://www.kaggle.com/datasets/madroscla/ariana-grande-webstore-inventory) from shop.arianagrande.com within a timespan of 1 month since the latest album release "Eternal Sunshine". The dashboard includes estimated sales for each product across the month along with distribution of sold products, variants, categories, restock histories, and album era.
+- Developed a dashboard in Power BI from 800K+ real-time data to track inventory changes of a singer's merch shop from Shopify after the latest album release
+- Calculated metrics of total estimated sales and number of products, along with creating filters of product search, album era, product type
+- Visualized total sales and sold items by day, total sales by product and product type, and histories of inventory restocks
 
 ### DataCo Supply Chain Dashboard
 #### 🔗[`Tableau`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/DataCo-Supply-Chain/OrderDistribution) 🏷️`e-commerce` `supply-chain` `big-data` `tableau`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/dataco-supply-chain/dataco-supply-chain.png)
 
-In this project I'm turning 180K+ transactions in a supply chain of multiple products into three dashboards displaying the distributions of orders, customers, products, and also shipping. It features 10+ metrics, 6 parameters, and options to download image of current findings--this could help in exploring further insights and enabling ad-hoc data requests.
+- Transformed 180,000+ transactions in a supply chain of clothing, sports, and electronic supplies, into three dashboards visualizing distributions of orders, customers, shipping, and products.
+- Added total sales and profit by month, filter of order map by regions, and transaction details, with 10+ metrics and 6 parameters to explore insights further and enable ad-hoc data requests.
 
 ### Dashboard of Pharma Sales: Kimia Farma, Indonesia
 #### 🔗[`Looker`](https://lookerstudio.google.com/u/0/reporting/1e26a0ae-fa0e-4357-8fee-8af1d2484a87/page/O4raE) 🏷️`dashboarding` `pharma` `looker`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/pharma-sales/pharma-sales-kimia-farma.png)
 
-In this project I'm transforming 600K+ transactions of Kimia Farma, a pharma retail with 1500+ branches in 31 provinces across Indonesia, into a map-based dashboard with conveying metrics of ratings, branches, and products. The data is given from the company with its data anonymized to protect the tue nature of the business. The dashboard can be filtered by island, province, and city for further details.
+- Developed a dashboard in Looker Studio for drug sales of a pharmacy retail company using a 4-year period dataset of 600,000+ anonymized transactions in 1,762 branches across Indonesia
+- Displayed 5 metrics aimed towards cross-functional stakeholders such as average ratings, total sales, and top product by profit, along with filters on year period, city, provinces, and main islands
 
 ### SportsLogs: Sports Logging Web App Dashboard
 #### 🔗 [`nbviewer`](https://nbviewer.org/github/itsalamhere/sports-logs/blob/main/notebook/EDA-and-data-processing.ipynb) [`Github`](https://github.com/itsalamhere/sports-logs) [`Streamlit`](https://sports-logs-ycdcdsxzjxlppdp3zrjxao.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `sport` `Python` `Streamlit`  
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/sports-logs/sports-logs.png)
 
-In this project I manage to process 10+ different datasets from biometric sensor (FitBit), sports logging (PMSys), and Google Docs into a list of dashboards visualizing the performance of 16 players. The web app is available to visualize **the Whole Team** (with limited data) and **individual player** (p01 - p16). The visuals varies from calories burned, active metrics in one player's sport activities, sleep stages on a specific date, up to wellness score each week.
+- Processed 10+ datasets (mainly in JSON format) from biometrics sensor of FitBit, and developed a web-app dashboard with matplotlib and Streamlit in Python to track performance of 16 athletes across 5 months
+- Created a total of 24 functions for data cleaning and data visualization in both by individual and by team, showcasing physiological metrics such as sleep stages, active minutes, HR zones, and SRPE by sport activities
 
 ### Alam's Productivity Tracker
 #### 🔗[`Looker`](https://lookerstudio.google.com/reporting/a13a8300-6ec0-4c8e-a750-ca3b258f59fd/page/bJDYE) 🏷️`dashboarding` `personal-project` `looker`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/productivity-tracker/productivity-tracker-looker.png)
 
-This project utilizes a personal archive of daily Pomodoro sessions, task and language chunks, read books, and milestones for 450+ days from the website [Studystream](app.studystream.live). The goal is to visualize how much Alam has gained across his journey--at times he doesn't feel good about it. Glad it turned out neat, and I can add the data further as time goes.
+- Conducted 2+ years worth of data entry in productivity metrics such as Pomodoro sessions, task chunks, and notable milestones from progress archive in a study-streaming platform
+- Transformed the data into a dashboard with Google Sheet and Google Looker Studio with charts such as cumulative progress by chunks and read books sorted by recent date.
 
 ### YouTube Metrics Web App Dashboard
 #### 🔗[`Github`](https://github.com/itsalamhere/YT-dashboard-streamlit) [`Streamlit`](https://yt-dashboard-app-k5smefz5gaj39bweayxre2.streamlit.app/) 🏷️`data-visualization` `dashboarding` `web-development` `marketing` `business` `YouTube` `Python` `Streamlit`  
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/youtube-metrics/youtube-metrics.png)
 
-This project processes datasets of aggregated metrics by 200+ videos and country and subscriber status, along with comments and performance over time, into a web app dashboard with Python and Streamlit with two features: **Aggregate Metrics** for the whole channel, and **Individual Video Analysis** for deeper insights per video.
+- Transformed relational datasets of performance in forms of video engagement and conversion, comments, and 2-year real-time daily statistics across 200+ YouTube videos, into a web app with Plotly and Streamlit in Python
+- Created two features: Aggregate Metrics, displaying 10 KPIs with YoY growth in engagement and performance, and Individual Video Analysis, showing views distribution by countries, along with views 30 days after published
 
 ### Data Platform for Automation in Drug Clearance Letter Generation
 #### 🔗📽️[`Loom`](https://www.loom.com/share/6d38b47cc3ca48c6b9edf49bea05985e) 🏷️`data-platform` `automation` `google-sheets` `google-app-script`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/drug-clearance-letter/drug-clearance-letter.png)
 
-In this project I manage to create a data platform in generating a drug clearance letter by turning form inputs of drug test results in Google Forms into a document file assorted from the data. This project features Google Sheets for further data processing (with usage of REGEXMATCH, LET, VLOOKUP), Google Docs for document template, Google App Scripts for search engine by Citizen ID and dynamic markdown in Google Forms, and Google Drive for data storage grouped per medical provider.
+- Developing a data platform in generating a drug clearance letter, with inputs of drug test results in Google Forms and outputs for both patients and medical providers in Central Sulawesi, Indonesia
+- Featuring Google Sheets for data processing towards final outputs, Google Docs for letter generation, Google App Scripts for search engine by National ID and dynamic markdown in Google Forms, and Google Drive for data storage grouped per medical provider
 
 ### Research Payments of Non-Covered Recipient Entity (NCRE) in the United States 2023
-#### 🔗[`Github`](https://github.com/itsalamhere/research-payments-ncre-2023/blob/main/README.md) | `nbviewer`: [`01-data-cleaning`](https://nbviewer.org/github/itsalamhere/research-payments-ncre-2023/blob/main/01-data-cleaning.ipynb) [`02-data-analysis-bigquery`](https://nbviewer.org/github/itsalamhere/research-payments-ncre-2023/blob/main/02-data-analysis-bigquery.ipynb) | `Tableau`: [`03-research-payments-NCRE-2023`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/research-payments-NCRE-2023/ResearchPayments2023-NCREs) 🏷️`healthcare` `RnD` `CMS` `real-world-data` `BigQuery` `Python` `Tableau`
+#### 🔗[`Dataset`](https://openpaymentsdata.cms.gov/) [`Github`](https://github.com/itsalamhere/research-payments-ncre-2023/blob/main/README.md) | `nbviewer`: [`01-data-cleaning`](https://nbviewer.org/github/itsalamhere/research-payments-ncre-2023/blob/main/01-data-cleaning.ipynb) [`02-data-analysis-bigquery`](https://nbviewer.org/github/itsalamhere/research-payments-ncre-2023/blob/main/02-data-analysis-bigquery.ipynb) | `Tableau`: [`03-research-payments-NCRE-2023`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/research-payments-NCRE-2023/ResearchPayments2023-NCREs) 🏷️`healthcare` `RnD` `CMS` `real-world-data` `BigQuery` `Python` `Tableau`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/US-research-payments/US-research-payments.png)
 
-This project visualizes research payments of NCREs in form of a dashboard of Tableau connected with database of BigQuery. The dataset are taken from [CMS Open Payments](https://openpaymentsdata.cms.gov/), then cleaned from `ParsingError` in Python, and analyzed through SQLs of BigQuery. The dashboard showcases NCRE records by state, and also research payments by therapeutic area, product, and NCREs. It also comes along with parameters of Smart Search, Product Category, and Top N [5-20].
+- Visualized a map-based dashboard of research payments from ~400,000 records in CMS OpenPayments of non-teaching hospital institutions (NCREs) in the US with Tableau integrated with GCP
+- Showcased insights by data analysis in SQL (BigQuery) such as total records in research by state and city, and most-funded research by therapeutic areas, products, manufacturing companies, and NCREs or institutions
 
 ### Product Segmentation and Customer Classification in an Online Retail Company
-#### 🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/product-segmentation-and-customer-classification.ipynb) 🏷️`clustering` `k-means` `wordcloud` `pca` `machine-learning` `marketing-data-science`
+#### 🔗[`Dataset`](https://archive.ics.uci.edu/dataset/502/online+retail+ii) [`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/product-segmentation-and-customer-classification.ipynb) 🏷️`clustering` `k-means` `wordcloud` `pca` `machine-learning` `marketing-data-science`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/clustering-online-retail/clustering-online-retail.png)
 
-This project cleans 1M+ data of 2-year-transactions in a [UK online retail company](https://archive.ics.uci.edu/dataset/502/online+retail+ii) into 760K+ invoices with respective cancellations cleaned into a column, clusters the data into 6 categories of products and 11 categories of customers, and classify the test customers with a combination of 3 best models inside a `VotingClassifier` with an accuracy of `91.5696%`.
+- Transformed 1,000,000+ online retail transactions in UK from 40+ countries into 6 categories of products and 11 profiles of customers with Python to identify patterns and craft strategies for sales and marketing teams
+- Creating a predictive model by clustering data with evaluation methods to define optimal number of groups with best similarities, and explored 9 ML algorithms resulting in a model accuracy of 91.5389%
 
 ### A/B Testing: Commitment Check for Online Students in Udacity ✏️📈🔎
 #### 🔗[`nbviewer`](https://nbviewer.org/github/itsalamhere/itsalamhere.github.io/blob/main/Notebooks/ab-testing-commitment-check-udacity.ipynb) 🏷️`a/b-testing` `data-analysis` `Python`
 
-Udacity conducts an experiment of commitment check by adding hours to devote per week before enrolling. This is to filter frustrated students who can't make it due to time while retaining current profits. This project creates the experiment design, measures the changes through relevant metrics, and offers recommendation whether or not to launch the experiment. 
+- Created an experiment design towards a change in the website after clicking “Start Free Trial” at Udacity to filter out frustrated students while retaining paid users
+- Conducted experiment analysis towards the data and chosen metrics of gross conversion and net conversion with statistical methods of  sanity checks, practical and statistical significance check, sign tests, and proposed recommendations and suggestions from the insights
 
 ### Drug Reviews on [drugs.com](drugs.com): Dashboard and Sentiment Prediction 💊📊⚙️
-#### 🔗 [`Github`](https://github.com/itsalamhere/drug-reviews) | [`Tableau (updated with BigQuery)`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/DrugReviews-bigquery/drug-reviews-bigquery) | `nbviewer`: 
+#### 🔗 [`Dataset`](https://data.mendeley.com/datasets/64cc5w5dxy/1) [`Github`](https://github.com/itsalamhere/drug-reviews) | [`Tableau (updated with BigQuery)`](https://public.tableau.com/app/profile/mohamad.alamsyah/viz/DrugReviews-bigquery/drug-reviews-bigquery) | `nbviewer`: 
 [`01-EDA-and-data-cleaning`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/01-EDA-and-data-cleaning.ipynb) [`02-import-csv-to-postgresql`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/02-import-csv-to-postgresql.ipynb) [`03-dashboard-of-drug-reviews`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/03-dashboard-of-drug-reviews.ipynb) [`04-sentiment-prediction`](https://nbviewer.org/github/itsalamhere/drug-reviews/blob/main/04-sentiment-prediction.ipynb) 🏷️`big-data` `data-cleaning` `Python` `PostgreSQL` `BigQuery` `Tableau` `natural-language-processing`
 
 ![screenshot](https://raw.githubusercontent.com/itsalamhere/itsalamhere.github.io/main/images/drug-reviews/drug-reviews.png)
 
-This project processes a 16-year [dataset](https://data.mendeley.com/datasets/64cc5w5dxy/1) of drug reviews by 390,000+ consumers into 4 sections: data cleaning and exploration, database management in PostgreSQL, data visualization in Tableau, and sentiment prediction through deep learning and transformers. 
+- Developed drug brands ratings dashboard in Tableau from 390,000+ records in drugs.com, conducted data analysis in PostgreSQL, and modeled sentiment prediction from reviews in Python with accuracy of 80.98 %
+- Conducted large-scale data cleaning of drug reviews, implementing HIPAA-compliant workflows to protect patient privacy, and streamlined drug names into three new columns of drug brands, usages, and generic names
 
 ### Revenue Prediction via Customer Lifetime Values (CLV)
 #### 🔗[`Github`](https://github.com/itsalamhere/revenue-prediction/tree/main) | `nbviewer`: [`01-EDA-and-data-cleaning`](https://nbviewer.org/github/itsalamhere/revenue-prediction/blob/main/01-EDA-and-data-cleaning.ipynb) [`02-data-visualization`](https://nbviewer.org/github/itsalamhere/revenue-prediction/blob/main/02-data-visualization.ipynb) [`03-feature-engineering`](https://nbviewer.org/github/itsalamhere/revenue-prediction/blob/main/03-feature-engineering.ipynb) [`04-revenue-prediction`](https://nbviewer.org/github/itsalamhere/revenue-prediction/blob/main/04-revenue-prediction.ipynb) 🏷️`big-data` `time-series-data` `forecasting` `machine-learning` 
